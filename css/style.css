@@ -1,6 +1,16 @@
 body {
     font-family: "Lato", sans-serif;
     overflow: hidden;
+    background-color: aliceblue;
+}
+
+.dark-mode {
+    background-color: #282a36;
+    color: #f8f8f2;
+}
+
+.dark-mode a {
+    color: #f8f8f2;
 }
 
 * {
